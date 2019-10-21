@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-const element = <button> Hello World! </button>;
 
 ReactDOM.render(<App />, document.getElementById('root'));
 // ReactDOM.render(element, document.getElementById('root'));
